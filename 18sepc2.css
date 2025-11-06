@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+}
+div.g1{
+    color: aquamarine;
+    font-family: fantasy;
+    text-align: center;
+    
+}
+div.g2{
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+}
+div.g3{
+    color: blanchedalmond;
+    font-family: fantasy;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-decoration: underline;
+    text-indent: 50px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+}
